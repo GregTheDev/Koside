@@ -14,3 +14,7 @@ What doesn't it do:
 * No visual designer, only displays code
 
 Maybe someone finds the code useful.
+
+Screenshot of the IDE (showing home.xml from skin.persona)
+
+![Image of IDE](https://raw.githubusercontent.com/GregTheDev/Koside/master/images/overview.png)
